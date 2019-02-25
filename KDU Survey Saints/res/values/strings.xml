@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">KDU Survey </string>
+    <string name="Question1">How often do you eat in KDU Canteen in a week ?</string>
+    <string name="radio_1.1">Always</string>
+    <string name="radio_1.2">Very often</string>
+    <string name="radio_1.3">Sometimes</string>
+    <string name="radio_1.4">Rare</string>
+    <string name="radio_1.5">Never</string>
+    <string name="Question2">What do you visit the canteen for ?</string>
+    <string name="text_2">Answer here...</string>
+    <string name="Question3">What is your favourite type of food available in the canteen ?</string>
+    <string name="box_3.1">Chinese</string>
+    <string name="box_3.2">Indian</string>
+    <string name="box_3.3">Malay</string>
+    <string name="box_3.4">Others</string>
+    <string name="Question4">Do you think there is sufficient variety of food sold in the canteen ?</string>
+    <string name="spin_4">Answer</string>
+    <string-array name="spin_4.1">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string name="Question5">Do you think the items are fairly priced ?</string>
+    <string name="spin_5">Answer</string>
+    <string-array name="spin_5.1">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string name="Question6">How would you rate the cleanliness of the canteen ?</string>
+    <string name="Question7">How would you rate the enviroment of the canteen ?</string>
+    <string name="Question8">How would you rate the cleaniness of the food ?</string>
+    <string name="Question9">Would you recommend a friend to have a meal here ?</string>
+    <string name="Question10">Do you have any other comments ?</string>
+    <string name="text_10">Enter comments here...</string>
+    <string name="btnDone">Finish</string>
+    <string name="txtTitle">Welcome to KDU Canteen Survey!</string>
+    <string name="hintTitle">Insert Student ID</string>
+    <string name="last">Thank you for your time</string>
+    <string name="btnHome">Home</string>
+    <string name="btnExit">Exit</string>
+
+
+</resources>
